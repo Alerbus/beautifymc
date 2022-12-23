@@ -1,6 +1,6 @@
 Download to Minecraft 3D 256x: https://mcpedl.com/lvzbxs-default-3d-pack/
 
-Scroll down press Download 256x (High)
+Scroll down and press Download 256x (High)
 
 Press Click here to continue
 
