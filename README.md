@@ -20,7 +20,6 @@ Click Free access
 
 Click download
 #
-
 Download and run each pack file to install (files can be found above, click on each and press Download)
 
 Once all packs have been installed, go to Settings > Global Resources > My Packs
