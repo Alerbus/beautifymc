@@ -8,9 +8,17 @@ Complete Captcha
 
 Scroll down
 
-Click Free Access
+Click Free access with ads
 
-Click Download
+Click a random ad
+
+Wait 15 seconds
+
+Close the new tab and the ad menu
+
+Click Free access
+
+Click download
 #
 
 Download and run each pack file to install (files can be found above, click on each and press Download)
