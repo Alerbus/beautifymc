@@ -4,7 +4,7 @@ Scroll down and press Download 256x (High)
 
 Press Click here to continue
 
-Complete captcha
+Complete Captcha
 
 Scroll down
 
@@ -12,6 +12,7 @@ Click Free Access
 
 Click Download
 #
+
 Download and run each pack file to install (files can be found above, click on each and press Download)
 
 Once all packs have been installed, go to Settings > Global Resources > My Packs
